@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CadastrandoIngressosUnicosApplication<cadastrando-ingressos-unicos>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.zup.handora.cadastrandoingressosunicos.CadastrandoIngressosUnicosApplication",
+      "projectName": "cadastrando-ingressos-unicos",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
